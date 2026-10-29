@@ -1,0 +1,6 @@
+# Stored notebook outputs were produced with Python 3.13, numpy 2.5.3, scipy 1.18.1 and matplotlib 3.11.2.
+# The random numbers come from numpy's legacy generator (np.random.seed), whose stream is stable across numpy versions.
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+jupyter
